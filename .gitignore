@@ -3,8 +3,11 @@ __pycache__/
 *.pyo
 .venv/
 venv/
+temp_auto_push.bat
 dist/
 build/
 *.egg-info/
 .pytest_cache/
 .mypy_cache/
+.gitignore
+branch_structure.json
