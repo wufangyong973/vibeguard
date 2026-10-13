@@ -5,6 +5,7 @@ __pycache__/
 venv/
 dist/
 build/
+temp_auto_push.bat
 *.egg-info/
 .pytest_cache/
 .mypy_cache/
@@ -12,3 +13,5 @@ build/
 .coverage
 .coverage.*
 htmlcov/
+.gitignore
+branch_structure.json
